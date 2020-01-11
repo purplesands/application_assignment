@@ -26,6 +26,15 @@ The finished project:
 
 Please include the url to your forked repository with the fixed webserver in your application to Inclusion's program.
 
+## Instructions
+
+To run the webserver, run the following command in the main directory:
+
+        npm install
+        node index.js 
+    
+Then go to [localhost:3000](localhost:3000) in your web browser. Reloading the page will produce a new random quote.
+
 ## References
 
 - [Random Movie Quotes NPM Docummentation](https://www.npmjs.com/package/random-movie-quotes)
